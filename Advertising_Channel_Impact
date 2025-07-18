@@ -1,0 +1,9 @@
+Advertising_Channel_Impact/
+├── data/
+│   └── raw/
+│       └── Advertising_Data.csv
+├── notebooks/
+│   └── Advertising_Analysis.ipynb
+├── visuals/
+├── README.md
+└── requirements.txt
